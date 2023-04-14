@@ -3,5 +3,6 @@ public class App {
         System.out.println("fet");
         System.out.println("fet2");
         System.out.println("release");
+        System.out.println("release2");
     }
 }
