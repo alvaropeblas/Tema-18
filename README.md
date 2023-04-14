@@ -1,18 +1,7 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+git branch -> Creamos la rama
+git branch -d  -> Eliminamos la rama
+git checkout  -> Pasar de una rama a otra.
+git add <archivo> -> añade un cambio del directorio de trabajo.
+git commit -m "mensaje de confirmación" ->   captura una instantánea de los cambios preparados en ese momento del proyecto.
+git push <nombre-remoto> <nombre-de-tu-rama> -> Envía la rama especificada a una , junto con todos los commits y objetos internos necesarios. 
+git merge <nombre-de-la-rama> -> Combina los cambios de la rama señalada con la acutal.
